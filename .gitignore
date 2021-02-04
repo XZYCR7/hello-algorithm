@@ -1,3 +1,4 @@
 node_modules
 .idea
-learning/.vuepress/dist
+website/.vuepress/dist
+learning
